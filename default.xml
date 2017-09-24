@@ -1,3 +1,10 @@
+<!--
+     Copyright 2017 Mats G. Liljegren
+     SPDX-License-Identifier: MIT
+
+     Repo tool manifest file for log server on Raspberry Pi 3
+-->
+
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<remote  name="yocto" fetch="git://git.yoctoproject.org" revision="pyro" />
